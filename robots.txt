@@ -1,4 +1,4 @@
-# robots.txt pour https://clairvoyancemedium.github.io/
+# robots.txt pour https://clairvoyancemedium.github.io/Prorochestvo-po-imeil-s-visoka-reputatsia-barzo-i-nadezhdno.github.io/
 User-agent: *
 Disallow: /private/
 Disallow: /temp/
@@ -9,7 +9,7 @@ Allow: /*.css$
 Allow: /*.js$
 
 # Indiquer l'emplacement du fichier sitemap.xml
-Sitemap: https://clairvoyancemedium.github.io/sitemap.xml
+Sitemap:  https://clairvoyancemedium.github.io/Prorochestvo-po-imeil-s-visoka-reputatsia-barzo-i-nadezhdno.github.io/sitemap.xml
 
 # Blocs spécifiques pour éviter l'indexation de ressources inutiles
 Disallow: /search
